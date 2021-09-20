@@ -1,0 +1,12 @@
+nav {
+  height: 50px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}

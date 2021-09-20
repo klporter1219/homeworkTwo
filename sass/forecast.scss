@@ -1,0 +1,15 @@
+#forecast {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 32px;
+  margin-top: 16px;
+}
+
+.forecastDay {
+  width: 100px;
+  text-align: center;
+  padding: 8px;
+  background: #eee;
+  border-radius: 8px;
+}

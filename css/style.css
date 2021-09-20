@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+#content {
+  padding: 40px;
+}
+#content div p {
+  margin-bottom: 0;
+}
+
+#forecast {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 32px;
+  margin-top: 16px;
+}
+
+.forecastDay {
+  width: 100px;
+  text-align: center;
+  padding: 8px;
+  background: #eee;
+  border-radius: 8px;
+}
+
+nav {
+  height: 50px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}

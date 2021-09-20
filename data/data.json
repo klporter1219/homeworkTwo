@@ -1,0 +1,74 @@
+{
+    "Students": [
+        {
+            "studentName": "Kalob",
+            "studentGPA": "5.0",
+            "studentAddress": {
+                "streetNumber": "123 Main St",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "zipcode": "467303"
+            }
+        },
+        {
+            "studentName": "Kendra",
+            "studentGPA": "4.0",
+            "studentAddress": {
+                "streetNumber": "125 Main St",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "zipcode": "467303"
+            }
+        },
+        {
+            "studentName": "Naomi",
+            "studentGPA": "3.0",
+            "studentAddress": {
+                "streetNumber": "121 Main St",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "zipcode": "467303"
+            }
+        },
+        {
+            "studentName": "Spencer",
+            "studentGPA": "3.0",
+            "studentAddress": {
+                "streetNumber": "127 Main St",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "zipcode": "467303"
+            }
+        },
+        {
+            "studentName": "Mindy",
+            "studentGPA": "4.5",
+            "studentAddress": {
+                "streetNumber": "129 Main St",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "zipcode": "467303"
+            }
+        },
+        {
+            "studentName": "JJ",
+            "studentGPA": "2.7",
+            "studentAddress": {
+                "streetNumber": "131 Main St",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "zipcode": "467303"
+            }
+        },
+        {
+            "studentName": "Bakeneko",
+            "studentGPA": "3.0",
+            "studentAddress": {
+                "streetNumber": "133 Main St",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "zipcode": "467303"
+            }
+        }
+    ]
+}
